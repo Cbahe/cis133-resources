@@ -1,4 +1,3 @@
 # cis133-resources
-As a person that has not taken any type of computer science class I found these resources very helpful. This html site gives very greaat examples for beginners and breaks down the html format.
-I gained a better understanding of what html is on this site. It showed me the basic construction of an html page. https://html.com/#Improve_Your_HTML_Skills
-it was very easy  to read, it had a decent use of negative space, and 
+As a person that has not taken any type of computer science class I found these resources very helpful. This html site gives very greaat examples for beginners and breaks down the html format. I gained a better understanding of what html is on this site. It showed me the basic construction of an html page. https://html.com/ it was very easy  to read, it had a decent use of negative space, and it broke down html format better.
+One other site I found is, https://www.taniarascia.com/overview-of-css-concepts/ I really like how the author explains other syntax and selectors. Finally the author also lists some css properties.  There is also a great useage of negitive space and the format is very clear and consise.
